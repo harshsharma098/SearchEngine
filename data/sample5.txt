@@ -1,0 +1,10 @@
+Database Systems and SQL
+
+Databases are crucial for storing and managing data in applications. Relational databases use SQL to query and manipulate structured data. Tables, rows, and columns organize information efficiently.
+
+NoSQL databases like MongoDB and Cassandra handle unstructured or semi-structured data. They offer flexibility and scalability for modern applications.
+
+Indexing improves query performance by creating data structures that allow faster lookups. Transactions ensure data consistency and integrity.
+
+Database normalization reduces data redundancy and prevents anomalies. Understanding ACID properties helps design reliable database systems.
+
